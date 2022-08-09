@@ -2,4 +2,5 @@
 update row2
 update row3
 add row4
+remote add row5 to conflict
 local add row5
