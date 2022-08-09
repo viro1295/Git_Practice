@@ -2,3 +2,4 @@
 update row2
 update row3
 add row4
+local add row5
