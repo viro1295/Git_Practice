@@ -6,3 +6,4 @@ remote add row5 to conflict
 local add row5
 edited
 edit dev1
+update dev 1
